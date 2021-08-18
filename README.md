@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Spectral
+- 📂 I’m currently learning JavaScript ( Discord Bot Developing ).
+- 🌴 Discord - Spectral#9211
